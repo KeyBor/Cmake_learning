@@ -1,0 +1,8 @@
+{
+    "cmake.configureOnEdit": false,
+    "cmake.sourceDirectory": "${workspaceFolder}/01-basic/B-hello-headers",
+    "cmake.configureOnOpen": false,
+    "files.associations": {
+        "ostream": "cpp"
+    }
+}
